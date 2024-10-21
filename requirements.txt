@@ -1,6 +1,6 @@
 streamlit
 moviepy
-SpeechRecognition
+speech_recognition
 gtts
-imageio[ffmpeg]
-PyAudio
+imageio_ffmpeg
+openai
